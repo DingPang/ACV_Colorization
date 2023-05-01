@@ -4,12 +4,13 @@ The main branch contains our colorization model, which is our best-performing mo
 
 Our model is trained on CIFAR10 dataste, and evaluated on the corresponding testing dataset. 
 
-##How to use
+## How to use
 The main.ipynb contains all the code that needs to be excuted. However, to use it properly, one should consider changing the file paths. 
 In addition
 
 ## Results
 Below image is the training time losses with MSELoss:
+
 ![mseloss ours](https://user-images.githubusercontent.com/50256011/235391448-ecfcd51c-85d0-4e04-b2a9-839c6d68f575.png)
 
 Below image is the training time losses with our custom loss:
