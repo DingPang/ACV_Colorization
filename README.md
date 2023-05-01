@@ -6,7 +6,8 @@ Our model is trained on CIFAR10 dataste, and evaluated on the corresponding test
 
 ## How to use
 The main.ipynb contains all the code that needs to be excuted. However, to use it properly, one should consider changing the file paths. 
-In addition
+
+In additions, we also provide our saved checkpoints: dp.ckpt(model trained with MSELoss) and dp2.ckpt(model trained with CustomLoss)
 
 ## Results
 Below image is the training time losses with MSELoss:
