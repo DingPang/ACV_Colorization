@@ -20,5 +20,3 @@ Below image is the training time losses with our custom loss:
 Below image is a demo comparison between image results (where 15 and 14 are average DeltaE values repectively):
 ![test results](https://user-images.githubusercontent.com/50256011/235391604-e39bb8ca-86b9-4542-ab6e-ba957adfb83b.png)
 
-
-
